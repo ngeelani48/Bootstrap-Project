@@ -28,3 +28,18 @@ body,html{
   background-repeat: no-repeat;
   background-size: cover;
 }
+
+.card-1 {
+  background-image: url("/images/project2.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.card {
+  height: 369px;
+  width: 435px;
+}
+
+.card-background-1 {
+  background-image: url("./images/desktop-project3.png")
+}
