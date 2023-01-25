@@ -1,0 +1,15 @@
+body,html{
+  margin:0;
+  width:100%;
+}
+.background-color{
+ background-color:#1c1a19;
+}
+
+.text-orange {
+  color:#f55800;
+}
+
+.col {
+  color:  #fff;
+}
