@@ -10,6 +10,21 @@ body,html{
   color:#f55800;
 }
 
-.col {
+.white-text {
   color:  #fff;
+}
+.first-page {
+  height: 100vh;
+}
+#links {
+  margin-left: 20rem;
+}
+.line {
+  border: 1px solid;
+  width: 100%;
+}
+#project1 {
+  background-image: url("/images/project2.png");
+  background-repeat: no-repeat;
+  background-size: cover;
 }
