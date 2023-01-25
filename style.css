@@ -23,13 +23,7 @@ body,html{
   border: 1px solid;
   width: 100%;
 }
-#project1 {
-  background-image: url("/images/project2.png");
-  background-repeat: no-repeat;
-  background-size: cover;
-}
-
-.card-1 {
+.card2 {
   background-image: url("/images/project2.png");
   background-repeat: no-repeat;
   background-size: cover;
@@ -37,9 +31,19 @@ body,html{
 
 .card {
   height: 369px;
-  width: 435px;
+  width: 400px;
 }
 
-.card-background-1 {
-  background-image: url("./images/desktop-project3.png")
+.card3 {
+  background-image: url("./images/desktop-project3.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.card4 {
+  background-image: url("./images/desktop-project4.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.about-content {
+  margin-left: 15rem;
 }
