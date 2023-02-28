@@ -1,0 +1,49 @@
+body,html{
+  margin:0;
+  width:100%;
+}
+.background-color{
+ background-color:#1c1a19;
+}
+
+.text-orange {
+  color:#f55800;
+}
+
+.white-text {
+  color:  #fff;
+}
+.first-page {
+  height: 100vh;
+}
+#links {
+  margin-left: 20rem;
+}
+.line {
+  border: 1px solid;
+  width: 100%;
+}
+.card2 {
+  background-image: url("/images/project2.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.card {
+  height: 369px;
+  width: 400px;
+}
+
+.card3 {
+  background-image: url("./images/desktop-project3.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.card4 {
+  background-image: url("./images/desktop-project4.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.about-content {
+  margin-left: 15rem;
+}
